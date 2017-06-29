@@ -38,6 +38,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 	git commit -m "First commit"
 	git remote add origin https://github.com/VietHoc/tasklist.git
 	git push origin master
-	git build --prod --base-href  https://github.com/VietHoc/tasklist.git
+	ng build --prod --base-href  https://github.com/VietHoc/tasklist.git
 	ngh
 	 
