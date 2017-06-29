@@ -30,14 +30,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 	npm install
 	npm start
-	ng build
-	ng build --prod
+	ng build --prod --base-href  https://viethoc.github.io/book-angular-capstone/
 	npm i -g angular-cli-ghpages
 	git init
 	git add .
 	git commit -m "First commit"
 	git remote add origin https://github.com/VietHoc/tasklist.git
 	git push origin master
-	ng build --prod --base-href  https://github.com/VietHoc/tasklist.git
 	ngh
 	 
