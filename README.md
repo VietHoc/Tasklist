@@ -35,7 +35,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 	git init
 	git add .
 	git commit -m "First commit"
-	git remote add origin https://github.com/VietHoc/tasklist.git
+	
 	git push origin master
 	ngh
 	 
